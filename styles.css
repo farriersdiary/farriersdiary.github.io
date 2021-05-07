@@ -1,0 +1,19 @@
+.home-thumbnails {
+    height: 270px;
+}
+
+.nav-scroller a {
+    color: gray;
+}
+
+.nav-scroller a.active {
+    color: black;
+}
+
+img.download {
+    height: 70px;
+}
+
+.phone-screenshots img {
+    border-radius: 18px;
+}
